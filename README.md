@@ -1,7 +1,7 @@
 # Tile game
 
 ## Tech
-    * Built with use of <a href="http://jawsjs.com">Jaws</a> library;
+    * Built with use of [Jaws](http://jawsjs.com) library;
     * Tested to work Mac OS (10.8.3) and iOS.
 
 ## Objective
@@ -17,5 +17,5 @@
     * Compete online.
 
 ## Appendix
-    * Background texture is from <a href="http://www.plaintextures.com/">http://www.plaintextures.com/</a>;
+    * Background texture is from <http://www.plaintextures.com/>;
     * You can use and change parts of this project with respect of their original license.
